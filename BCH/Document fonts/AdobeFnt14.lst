@@ -1,0 +1,65 @@
+%!Adobe-FontList 1.14
+%Locale:0x809
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdobeHebrew-Regular
+FamilyName:Adobe Hebrew
+StyleName:Regular
+FullName:Adobe Hebrew Regular
+MenuName:Adobe Hebrew
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Hebrew
+OutlineFileName:C:\Users\Novica\Desktop\Brochure_BCH\Document fonts\AdobeHebrew-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:73492
+FileModTime:1329300814
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-Bold
+FamilyName:Ubuntu
+StyleName:Bold
+FullName:Ubuntu Bold
+MenuName:Ubuntu
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Novica\Desktop\Brochure_BCH\Document fonts\Ubuntu-B.ttf
+DataFormat:sfntData
+FileLength:333612
+FileModTime:1436526196
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu
+FamilyName:Ubuntu
+StyleName:Regular
+FullName:Ubuntu
+MenuName:Ubuntu
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Novica\Desktop\Brochure_BCH\Document fonts\Ubuntu-R.ttf
+DataFormat:sfntData
+FileLength:353824
+FileModTime:1466490010
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
